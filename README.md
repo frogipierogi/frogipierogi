@@ -20,6 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frogipierogi&show_icons=true&locale=en" alt="frogipierogi" /></p>
 
-<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thinkedcobra&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=thinkedcobra&redirect=true)
-</div>
+
