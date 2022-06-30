@@ -1,1 +1,1 @@
-# readme
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thinkedcobra&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=thinkedcobra&redirect=true)
