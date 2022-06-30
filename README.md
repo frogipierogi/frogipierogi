@@ -1,5 +1,5 @@
 <h1 align="center">sup im stan</h1>
-<h3 align="center">im lazy dev who steal others lol</h3>
+<h3 align="center">im lazy dev who steal from the others lol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frogipierogi&label=Profile%20views&color=0e75b6&style=flat" alt="frogipierogi" /> </p>
 
